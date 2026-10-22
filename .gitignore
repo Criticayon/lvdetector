@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment and secrets
+.env
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*
+
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
+analysis_conversation0.jsonl
